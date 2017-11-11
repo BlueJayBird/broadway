@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 .headline-list {
-background-image: url('resources/images/flatiron-building.png');
+background-image: url('./images/flatiron-building.png');
 }
 h1 {
   color: white;
@@ -26,7 +26,7 @@ p {
   font-size: 14px;
 }
 .ny-design {
-  background-image: url('resources/images/flatiron-building.png');
+  background-image: url('./images/flatiron-building.png');
   font-size: 23px;
   font-weight: bold;
   color: white;
@@ -36,3 +36,8 @@ p {
   font-size: 11px;
   color: white;
 }
+.headline-list {
+background-image: url('../images/flatiron-building.png');
+}
+
+
