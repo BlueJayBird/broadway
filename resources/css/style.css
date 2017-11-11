@@ -26,7 +26,7 @@ p {
   font-size: 14px;
 }
 .ny-design {
-  background-image: url('./images/flatiron-building.png');
+  background-image: url('../images/flatiron-building.png');
   font-size: 23px;
   font-weight: bold;
   color: white;
